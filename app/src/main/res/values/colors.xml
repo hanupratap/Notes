@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">@color/cardview_dark_background</color>
+    <color name="colorPrimaryDark">@color/design_default_color_on_secondary</color>
+    <color name="colorAccent">#2196F3</color>
+    <color name="my_app_primary_color">#494242</color>
+    <color name="my_app_secondary_color">@android:color/secondary_text_light</color>
+    <color name="my_app_background_color">#DDDADA</color>
+    <color name="my_app_error_color">#CD2D2D</color>
+
+</resources>
